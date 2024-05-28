@@ -24,4 +24,5 @@ The project involved programming a PIC16F887 microcontroller to perform counting
 
 
 ## Screenshots
+<img width="379" alt="screen1" src="https://github.com/03yasser/PIC16F887-Counter-DownCounter/assets/64617927/acc4543e-d5a8-4213-8b34-2453c6158b36">
 
